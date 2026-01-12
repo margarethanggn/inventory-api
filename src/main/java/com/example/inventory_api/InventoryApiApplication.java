@@ -6,7 +6,6 @@ import org.springframework.web.bind.annotation.*;
 
 @SpringBootApplication
 @RestController
-@RequestMapping("/api")
 public class InventoryApiApplication {
     
     public static void main(String[] args) {
